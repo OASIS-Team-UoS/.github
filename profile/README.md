@@ -1,26 +1,44 @@
 # OASIS Team Software
 
-OASIS Team Software is the public GitHub home for selected OASIS resources, documentation, and release-facing materials from the OASIS team at UoS.
+OASIS Team Software is the public GitHub home for software, documentation, and release materials from the Planetary Climate Physics Group at the University of Southampton, UK.
 
-This organization is used to share public project information while active research code, model development assets, and restricted materials remain in their appropriate release channels.
+We develop numerical tools for studying planetary atmospheres and climates across a hierarchy of model complexity, from one-dimensional climate and radiative-transfer tools to fully three-dimensional planetary climate models. Our work supports the simulation, analysis, and interpretation of planetary environments across the Solar System and beyond, including the connection between climate processes and observational data.
+
+Learn more about the project at [software-oasis.com](https://www.software-oasis.com).
+
+## Research Scope
+
+Our research focuses on the physics of planetary climates and the tools needed to understand them, including:
+
+- Atmospheric dynamics and global circulation
+- Radiative transfer and climate feedbacks
+- Surface-atmosphere interactions
+- Clouds, aerosols, hazes, and trace species
+- Climate diversity across terrestrial planets and exoplanets
+- Synthetic observations and interpretation of measured data
 
 ## Public Resources
 
-| Repository | Purpose |
+| Resource | Purpose |
 | --- | --- |
-| [oasis-public](https://github.com/OASIS-Team-UoS/oasis-public) | Public landing repository for OASIS information and release notes. |
+| [software-oasis.com](https://www.software-oasis.com) | Project information, scientific context, and public updates. |
+| [oasis-public](https://github.com/OASIS-Team-UoS/oasis-public) | Public landing repository for OASIS information, release notes, and supporting materials. |
 
-## Availability
+## Software Availability
 
-The public repository is currently a placeholder while release-ready materials are being prepared. Model source code is not included in the public tier at this stage.
+We are preparing public releases of numerical tools spanning 1D climate workflows through to fully 3D planetary climate modelling. These resources will be made available as they become documented, tested, and suitable for external use.
+
+Model source code, development branches, and restricted research materials are not included in the public repositories unless explicitly stated in the relevant release or repository documentation.
 
 ## What to Expect
 
-- Public documentation as it becomes available
-- Release notes for approved OASIS materials
-- Links to public artefacts, datasets, models, or demos when released
-- Clear guidance on access, licensing, and citation where applicable
+- Documentation for released tools and workflows
+- Example configurations and benchmark cases
+- Numerical tools for planetary climate studies
+- Materials for interpreting observational data with climate models
+- Release notes, licensing information, and citation guidance
 
-## Contact
+## Contact and Collaboration
 
-For questions about access, collaboration, or release status, please use the team’s official communication channels.
+For questions about access, collaboration, or release status, please visit [software-oasis.com](https://www.software-oasis.com) or use the team's official communication channels.
+
