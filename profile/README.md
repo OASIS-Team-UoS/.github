@@ -30,6 +30,10 @@ We are preparing public releases of numerical tools spanning 1D climate workflow
 
 Model source code, development branches, and restricted research materials are not included in the public repositories unless explicitly stated in the relevant release or repository documentation.
 
+### Experimental Visualisation
+
+An experimental [OASIS planet visualisation tool](https://www.software-oasis.com/oasis-planet-visualisation) is available as an early preview. The tool is under active development, and we are currently expanding its capabilities, so it should be treated as an exploratory resource rather than a stable public release.
+
 ## What to Expect
 
 - Documentation for released tools and workflows
@@ -41,4 +45,3 @@ Model source code, development branches, and restricted research materials are n
 ## Contact and Collaboration
 
 For questions about access, collaboration, or release status, please visit [software-oasis.com](https://www.software-oasis.com) or use the team's official communication channels.
-
