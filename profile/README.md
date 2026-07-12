@@ -20,7 +20,8 @@ At the University of Southampton, we are developing **OASIS**: an ecosystem of n
 
 Our goal is to construct physically consistent virtual planets. These worlds allow us to investigate environments across the Solar System and beyond, test how climate emerges from fundamental processes, and interpret planets that we can observe but cannot visit.
 
-> **One physical framework, many possible worlds.**  
+> **One physical framework, many possible worlds.**
+>
 > OASIS is designed to follow the chain from microscopic radiative interactions to planetary-scale climate and observable signatures.
 
 ## A connected hierarchy of planetary models
